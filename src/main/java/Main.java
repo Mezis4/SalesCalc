@@ -9,13 +9,13 @@ public class Main {
 
         long[] sales = new long[12];
         //sales[0] = 8;
-        //sales[1] = 15;
-        //sales[2] = 13;
-        //sales[3] = 15;
+        //sales[1] = 13;
+        //sales[2] = 15;
+        //sales[3] = 13;
         //sales[4] = 17;
         //sales[5] = 20;
         //sales[6] = 19;
-        //sales[7] = 20;
+        //sales[7] = 22;
         //sales[8] = 7;
         //sales[9] = 14;
         //sales[10] = 14;
